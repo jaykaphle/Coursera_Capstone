@@ -1,0 +1,14 @@
+Data
+
+I will be using Wikipedia data for New York City.
+1.	New York population
+2.	New York demographics
+3.	List of New York locations by per capita income
+4.	Foursquare API
+
+https://en.wikipedia.org/wiki/List_of_New_York_locations_by_per_capita_income
+https://en.wikipedia.org/wiki/Cuisine_of_New_York_City
+https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_New_York_City
+https://en.wikipedia.org/wiki/Neighborhoods_in_New_York_City
+
+Population and demographics data will be used to find the locations with highest number of Asian immigrants. Per capita income will be used to further narrow down the location with high income so that they can dine out frequently, and expectation is they can make multiple dining in the restaurant per week. Foursquare data will be used to find the location with higher number of Asian cousins, which in conjunction with high per capita income will help to determine the location to open the restaurant.
